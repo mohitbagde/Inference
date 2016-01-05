@@ -1,0 +1,7 @@
+1
+Knows(A,D)
+4
+Knows(x,y) ^ Knows(y,z) => Knows(x,z)
+Knows(A,B)
+Knows(B,C)
+Knows(C,D)
